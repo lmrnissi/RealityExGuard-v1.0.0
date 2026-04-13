@@ -27,7 +27,7 @@ Includes a `SendACinfoToServer` function template. This demonstrates how a clien
 The project is written in **Native C++** and uses dynamic linking (`GetProcAddress`) for critical functions to avoid static detection of imports.
 
 ### Build Instructions
-1. Open `RealityExGuard.sln` in **Visual Studio 2026**.
+1. Open `RealityExGuard 1.0.0.slnx` in **Visual Studio 2026**.
 2. Set the platform to **Release | x86**.
 3. Ensure the Character Set is set to **Multi-Byte**.
 4. Build the solution to generate `RealityExGuard.dll`.
