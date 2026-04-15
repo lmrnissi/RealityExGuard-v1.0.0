@@ -16,4 +16,4 @@ RealityExGuard is an educational, open-source C++ Anti-Cheat system.
 - Simulated server-side kick mechanism.
 
 ## Upcoming
-**The biggest update will come soon! Stay tuned for major enhancements.**
+**The biggest update will come soon Stay tuned for major enhancements.**
