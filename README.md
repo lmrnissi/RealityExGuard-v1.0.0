@@ -1,4 +1,4 @@
-RealityExGuard v1.0.0
+RealityExGuard 
 A lightweight, educational C++ Anti-Cheat DLL designed to demonstrate core concepts of game security, including anti-debugging, anti-attachment, and server-side reporting simulations.
 
 Project Purpose
